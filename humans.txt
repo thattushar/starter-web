@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tushar Raj tusharraj@gmail.com AskkMeAgain
 
 # THANKS
 
