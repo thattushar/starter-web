@@ -8,4 +8,8 @@ As said above added this just to practice git
 
 ## Purpose
 
+To practice several git commands
+
 ## Connect
+
+Twitter : @AskkMeAgain
