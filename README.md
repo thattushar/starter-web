@@ -16,4 +16,4 @@ Twitter : @AskkMeAgain
 
 ## Copyright
 
-Me
+	Issue pull request
