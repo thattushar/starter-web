@@ -13,3 +13,7 @@ To practice several git commands
 ## Connect
 
 Twitter : @AskkMeAgain
+
+## Copyright
+
+Me
